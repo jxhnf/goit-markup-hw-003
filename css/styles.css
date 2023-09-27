@@ -312,11 +312,12 @@ body {
 .feature {
 	display: inline-block;
 	width: 264px;
+	text-align: left;
 }
 
 .features-list {
-	display: inline-flex;
-	width: 1158px;
+	display: flex;
+	/* width: 1158px; */
 	margin: 0px;
 	padding: 0px;
 	gap: 24px;
