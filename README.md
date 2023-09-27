@@ -1,3 +1,4 @@
-jxhnf.# goit-markup-hw-02
+jxhnf.# goit-markup-hw-03
 
 Basic HTML structure + CSS
+added geometry
